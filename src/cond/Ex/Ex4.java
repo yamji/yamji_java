@@ -1,4 +1,4 @@
-package cond;
+package cond.Ex;
 
 public class Ex4 {
     public static void main(String[] args) {

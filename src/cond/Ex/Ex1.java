@@ -1,4 +1,4 @@
-package cond;
+package cond.Ex;
 //학점 계산기
 public class Ex1 {
     public static void main(String[] args) {
